@@ -13,8 +13,8 @@ void showMenu() {
     cout << "-------------------------------------------------------------\n";
     cout << "Choose one of the options below: \n";
     cout << "1. Show all genres of games.\n";
-    cout << "2. Show all games for a specific genre. (do optino 1. first to "
-            "get genres.\n";
+    cout << "2. Show all games for a specific genre. (must do option 1. first "
+            "to get genres)\n";
     cout << "3. Other... you must implement this.\n";
     cout << "9. Quit this program\n";
 }
